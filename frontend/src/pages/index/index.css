@@ -1,0 +1,25 @@
+.usuario-list{
+    margin: 10px auto 0;
+    padding: 0 20px;
+    max-width: 370px;
+    padding: 20px;
+   justify-content: center;
+   text-align: center;
+}
+
+.usuario-list article{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+.usuario-list article a:hover{
+    background: #2B4297;
+    color: #fff;
+}
+usuario#insert {
+    font-size: 14px;
+    text-align: center;
+}
